@@ -1,0 +1,12 @@
+git and github
+--------------
+   version control manager
+   github is remote repository(website)
+   git is local repository(our system)
+
+git operations
+    -push (upload new project and updated from local repo to remote repo )
+    -clone(takes exact copy from remote repo to local repo)
+    -pull(takes new updations from remote repo to local repo)
+
+     

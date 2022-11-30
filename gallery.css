@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Quicksand&display=swap');
+/*importing font style from google fonts,copying the style in each tag description of css*/
+#p1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:large;
+    color: rgb(15, 59, 60);
+    font-weight:bolder;
+}
+div{
+    width: 21%;
+    background-color: rgb(247, 251, 251);
+    height: 560px;
+    border: 5px rgb(237, 240, 244) solid;
+    float: left;
+    padding: 20px;
+    color: rgb(128, 93, 128);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+}
+img{
+    width: 100%;
+    height: 290px;
+}
+h2{
+    text-align: center;
+}
+#im{
+    height: 300px;
+}
+#p1{
+    font-family: 'Patrick Hand', cursive;
+    font-size:xx-large;
+    text-shadow:3px 3px rgb(82, 173, 234);
+
+}
+h4{
+    text-shadow:1px 1px rgb(82, 173, 234);
+    text-align: right;
+}
